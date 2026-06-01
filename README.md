@@ -110,7 +110,7 @@ linge-blog/
 └── package.json
 ```
 
----
+--- 
 
 ## 📄 License
 
